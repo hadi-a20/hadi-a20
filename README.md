@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hadi-a20
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning angular
+- 🌱 I’m currently working with .net
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hadiardebili@gmail.com
 
